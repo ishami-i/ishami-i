@@ -36,8 +36,8 @@ Software engineering student passionate about building Full-Stack, responsive, s
 A digital system for organizing, managing, and accessing books efficiently.
 
 **Tech Stack**
-- Frontend: React, Tailwind CSS  
-- Backend: Django / Node.js  
+- Frontend: HTML/CSS, JavaScript
+- Storage: LocalStorage
 
 **Features**
 - Book catalog management  
@@ -52,8 +52,8 @@ A digital system for organizing, managing, and accessing books efficiently.
 A data-driven system for analyzing taxi operations and traffic patterns.
 
 **Tech Stack**
-- Python, Pandas, NumPy  
-- Matplotlib / Power BI  
+- **Frontend**: HTML/CSS, JavaScript
+- **Backend**: Python, Flask
 
 **Features**
 - Taxi trip data analysis  
@@ -68,8 +68,9 @@ A data-driven system for analyzing taxi operations and traffic patterns.
 A platform connecting farmers with buyers and agricultural resources.
 
 **Tech Stack**
-- React / JavaScript frontend  
-- Django / Node.js backend  
+- HTML/CSS and JavaScript frontend  
+- Python and Flask backend
+- MySQL Database 
 
 **Features**
 - Farmer-to-buyer marketplace  
