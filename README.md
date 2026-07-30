@@ -91,6 +91,7 @@ A platform connecting farmers with buyers and agricultural resources.
 
 - 📧 Personal Email: i.ishami025@gmail.com
 - 📧 Student Email: i.irene@alustudent.com
+- Codeorces: [ishami-i](https://codeforces.com/profile/ishami-i)
 - 💼 Open to collaborating on interesting projects!
 
 ---
