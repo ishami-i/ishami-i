@@ -81,7 +81,6 @@ A platform connecting farmers with buyers and agricultural resources.
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iren%C3%A9-ishami-908b85334/)
-[![Codeforces](https://shields.io)](https://codeforces.com)
 [![Student Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.irene@alustudent.com)
 [![Personal Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.ishami025@gmail.com)
 
